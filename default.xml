@@ -11,5 +11,5 @@
     </project>
     <project path="vendor" name="sevsb/vendor" />
 
-    <project path="invoicing" remote="osc" name="hisplat/analyser" />
+    <project path="analyzer" remote="osc" name="hisplat/analyser" />
 </manifest>
